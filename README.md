@@ -16,9 +16,28 @@ UiPath
 
 Tenho foco em automação de processos, web scraping e integração de sistemas, sempre buscando soluções robustas e escaláveis. Gosto de resolver problemas complexos de forma prática e eficiente, aplicando boas práticas de desenvolvimento.
 
-
+---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="win" 
+    title="win"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Play" 
+    title="Play"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
+/>
 
 
 <img 
