@@ -1,12 +1,11 @@
 # 👩🏻‍💻 Igor Augusto 🤖
 
-Olá, eu sou o Igor, Tenho 28 anos, sou natural de São Paulo e atualmente moro em Jaraguá do Sul - SC.
+Olá, eu sou o Igor, Tenho 28 anos, sou natural de São Paulo e atualmente moro em Jaraguá do Sul - SC.<br/>
 Sou formado em Gestão de Tecnologia da Informação e atuo como Desenvolvedor RPA desde 2021, criando soluções de automação que otimizam processos e aumentam a eficiência operacional.
 
 ---
 
-🚀 Tecnologias e ferramentas:
-
+🚀 Tecnologias e ferramentas:<br/>
 Python|<br/>
 Selenium|<br/>
 Playwright|<br/>
@@ -17,8 +16,7 @@ UiPath|<br/>
 
 ---
 
-💡 Sobre mim:
-
+💡 Sobre mim:<br/>
 Tenho foco em automação de processos, web scraping e integração de sistemas, sempre buscando soluções robustas e escaláveis. Gosto de resolver problemas complexos de forma prática e eficiente, aplicando boas práticas de desenvolvimento.
 
 ---
@@ -113,3 +111,6 @@ Tenho foco em automação de processos, web scraping e integração de sistemas,
 
 <br/>
 <br/>
+
+---
+Possuo mais de 350 commits, mas foram em contas criadas dentro das empresas onde atuei
