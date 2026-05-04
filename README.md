@@ -6,19 +6,19 @@ Sou formado em Gestão de Tecnologia da Informação e atuo como Desenvolvedor R
 
 ---
 
-🚀 Tecnologias e ferramentas
+🚀 Tecnologias e ferramentas:
 
-Python
-Selenium
-Playwright
-JavaScript
-MySQL
-BotCity
-UiPath
+Python|
+Selenium|
+Playwright|
+JavaScript|
+MySQL|
+BotCity|
+UiPath|
 
 ---
 
-💡 Sobre mim
+💡 Sobre mim:
 
 Tenho foco em automação de processos, web scraping e integração de sistemas, sempre buscando soluções robustas e escaláveis. Gosto de resolver problemas complexos de forma prática e eficiente, aplicando boas práticas de desenvolvimento.
 
