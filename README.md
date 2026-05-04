@@ -13,6 +13,8 @@ JavaScript<br/>
 MySQL<br/>
 BotCity<br/>
 UiPath<br/>
+API<br/>
+
 
 ---
 
@@ -108,6 +110,26 @@ Tenho foco em automação de processos, web scraping e integração de sistemas,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+
 
 <br/>
 <br/>
