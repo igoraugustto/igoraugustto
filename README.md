@@ -6,13 +6,13 @@ Sou formado em Gestão de Tecnologia da Informação e atuo como Desenvolvedor R
 ---
 
 🚀 Tecnologias e ferramentas:<br/>
-Python|<br/>
-Selenium|<br/>
-Playwright|<br/>
-JavaScript|<br/>
-MySQL|<br/>
-BotCity|<br/>
-UiPath|<br/>
+Python<br/>
+Selenium<br/>
+Playwright<br/>
+JavaScript<br/>
+MySQL<br/>
+BotCity<br/>
+UiPath<br/>
 
 ---
 
