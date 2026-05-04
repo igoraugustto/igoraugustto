@@ -113,4 +113,4 @@ Tenho foco em automação de processos, web scraping e integração de sistemas,
 <br/>
 
 ---
-Possuo mais de 350 commits, mas foram em contas criadas dentro das empresas onde atuei
+Possuo mais de 350 commits, mas foram em contas criadas dentro das empresas onde atuei.
