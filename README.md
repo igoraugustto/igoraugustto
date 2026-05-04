@@ -15,6 +15,7 @@ UiPath
 
 
 💡 Sobre mim
+
 Tenho foco em automação de processos, web scraping e integração de sistemas, sempre buscando soluções robustas e escaláveis. Gosto de resolver problemas complexos de forma prática e eficiente, aplicando boas práticas de desenvolvimento.
 
 ---
